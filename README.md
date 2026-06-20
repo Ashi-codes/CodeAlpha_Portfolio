@@ -94,7 +94,7 @@ https://codealpha-portfolio-ashi.netlify.app/
 
 ## 📌 GitHub Repository
 
-Add Your GitHub Repository Link Here
+https://github.com/Ashi-codes/CodeAlpha_Portfolio
 
 ## 👩‍💻 Developed By
 
