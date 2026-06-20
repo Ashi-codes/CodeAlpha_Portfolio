@@ -2,7 +2,7 @@
 
 A modern and responsive personal portfolio website built using React.js to showcase my skills, education, projects, and contact information.
 
-## 🚀 Features
+##  Features
 
 - Responsive Design
 - Smooth Scrolling Navigation
@@ -28,14 +28,23 @@ A modern and responsive personal portfolio website built using React.js to showc
 ## 📂 Project Structure
 
 src/
+
 │
+
 ├── assets/
+
 │ └── ayesha.jpg
+
 │
+
 ├── App.js
+
 ├── App.css
+
 ├── index.js
+
 ├── index.css
+
 └── reportWebVitals.js
 
 ## 📚 Sections
@@ -46,7 +55,7 @@ Introduction and professional overview.
 ### 👩‍💻 About
 Personal information and educational background.
 
-### 🛠 Skills
+###  Skills
 - C++
 - C#
 - Python
